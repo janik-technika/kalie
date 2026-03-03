@@ -1,0 +1,132 @@
+{
+  "description": "Vztahuje se na úkony vedení daňové evidence, účetnictví a účetního poradenství. Nezahrnuje úkony spojené s daňovým poradenstvím a zastupováním v daňových záležitostech. S účinností od 1. 1. 2012.",
+  "categories": [
+    {
+      "id": "danove-evidence",
+      "title": "Daňová evidence",
+      "description": "Základní cena pro vedení daňové evidence fyzické osoby – podnikatele činí 4 000 Kč ročně. Objemově představuje tato základní cena množství do 150 dokladů ročně. Zpracování většího množství dokladů je oceňováno cenou za zpracovanou položku.",
+      "items": [
+        {
+          "label": "Pohledávky, závazky",
+          "price": "11 Kč",
+          "unit": "za účetní doklad"
+        },
+        {
+          "label": "Pokladní doklady",
+          "price": "15 Kč",
+          "unit": "za účetní doklad"
+        },
+        {
+          "label": "Bankovní doklad",
+          "price": "12 Kč",
+          "unit": "za účetní položku"
+        },
+        {
+          "label": "Nepeněžní operace (interní doklady)",
+          "price": "20 Kč",
+          "unit": "za účetní doklad"
+        }
+      ]
+    },
+    {
+      "id": "ucetnictvi",
+      "title": "Vedení účetnictví",
+      "description": "Účetnictví je vedeno právnickým osobám a fyzickým osobám, které mají povinnost vést účetnictví dle zákona o účetnictví anebo ho vedou dobrovolně.",
+      "items": [
+        {
+          "label": "Pohledávky, závazky",
+          "price": "13 Kč",
+          "unit": "za účetní doklad"
+        },
+        {
+          "label": "Pokladní doklady",
+          "price": "17 Kč",
+          "unit": "za účetní doklad"
+        },
+        {
+          "label": "Bankovní doklad",
+          "price": "12 Kč",
+          "unit": "za účetní položku"
+        },
+        {
+          "label": "Nepeněžní operace (interní doklady)",
+          "price": "25 Kč",
+          "unit": "za účetní doklad"
+        }
+      ]
+    },
+    {
+      "id": "rekonstrukce",
+      "title": "Rekonstrukce účetnictví",
+      "description": "Na žádost klienta provádíme rekonstrukce účetnictví — komplexní revizi účetních dat. V případě zjištění závažných nedostatků je provedeno kompletní přeúčtování účetních dokladů. Účetní operace jsou zpoplatněny dle výše uvedených ceníků s přirážkou 10 % za měrnou jednotku. Za rekonstrukci je považováno i zpracování účetních dokladů v náhradní lhůtě uložené správcem daně. Rekonstrukce spočívající v kontrole zaúčtování a následné sestavení závěrky se oceňuje částkou od 5 000 Kč bez DPH dle rozsahu.",
+      "items": []
+    },
+    {
+      "id": "mzdy",
+      "title": "Mzdové účetnictví",
+      "description": "Služby personální a mzdové evidence jsou poskytovány klientům spolu s vedením účetnictví, daňové evidence nebo jako samostatná služba.",
+      "items": [
+        {
+          "label": "Personalistika *",
+          "price": "700 Kč",
+          "unit": "za pracovníka a úkon"
+        },
+        {
+          "label": "Zpracování mzdy",
+          "price": "150 Kč",
+          "unit": "za pracovníka"
+        },
+        {
+          "label": "Zastupování při kontrolách (SZ, ZP)",
+          "price": "1 000 Kč",
+          "unit": "za úkon"
+        },
+        {
+          "label": "Vyúčtování za podnik pro FÚ",
+          "price": "1 000 Kč",
+          "unit": "za výkaz"
+        }
+      ]
+    },
+    {
+      "id": "poradenstvi",
+      "title": "Poradenství v oblasti účetnictví a mezd",
+      "description": "Účetní a mzdové poradenství poskytujeme nejen klientům účetní kanceláře. Zájemce může požádat o provedení poradenství v písemné nebo ústní formě. Poradenství poskytujeme v místě účetní kanceláře nebo u klienta. Poskytujeme také účetní dohled a poradenství v rámci kontroly správnosti vedení účetnictví nebo daňové evidence.",
+      "items": [
+        {
+          "label": "Písemné poradenství (účetní, mzdové)",
+          "price": "600 Kč",
+          "unit": "za 1 objednávku"
+        },
+        {
+          "label": "Ústní poradenství",
+          "price": "500 Kč",
+          "unit": "za 1 hodinu"
+        },
+        {
+          "label": "Cestovní náhrady",
+          "price": "10 Kč",
+          "unit": "za ujetý km"
+        },
+        {
+          "label": "Věcné náhrady",
+          "price": "dle podmínek",
+          "unit": "—"
+        }
+      ]
+    },
+    {
+      "id": "a68f6084-cb8c-4294-8637-996130109250",
+      "title": "Testovací kategorie",
+      "items": [
+        {
+          "label": "test",
+          "price": "1kč",
+          "unit": ""
+        }
+      ],
+      "description": "Testovací kategorie"
+    }
+  ],
+  "footnote": "Uvedené ceny neobsahují DPH. Cenová nabídka je vždy přizpůsobena individuálním potřebám klienta."
+}
